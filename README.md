@@ -1,13 +1,13 @@
 # Benim Projelerim
 
-### 1. Diyetisyen Eren Yılmaz Web Sitesi
+### 1. Diyetisyen Eren Yılmaz Kurumsal Web Sitesi
 * [cite_start]**Platform:** Squarespace [cite: 11]
 * [cite_start]**Link:** [diyetisyenerenyilmaz.com](https://www.diyetisyenerenyilmaz.com/) [cite: 12]
 * [cite_start]**Açıklama:** SEO uyumlu ve kullanıcı dostu arayüz tasarımı yapılmıştır[cite: 11].
 
 
 
-### 2.  Akhisar Yazılım - Kurumsal Web Sitesi
+### 2. Akhisar Yazılım - Kurumsal Web Sitesi
 ---
 
 ```json
@@ -28,3 +28,20 @@
 }
 
 
+### 3. Çam Bilişim - Kurumsal Web Sitesi
+
+{
+  "project_name": "Cam Bilişim E-Ticaret & Görsel Kimlik",
+  "organization": "Vexille Bilişim Hizmetleri (Staj)",
+  "role": "Web Geliştirici & Görsel Tasarımcı",
+  "environment": "WordPress / WooCommerce & Canva Business",
+  "technical_stack": ["WordPress", "E-Commerce", "Digital Catalog Design", "UI Design"],
+  "contributions": [
+    "Kurumsal standartlara uygun e-ticaret altyapısının yapılandırılması ve ürün portföyü yönetimi",
+    "Markanın profesyonel duruşunu destekleyen 50+ sayfalık ürün kataloglarının tasarlanması",
+    "Sosyal medya varlıklarının ve dijital reklam materyallerinin marka bütünlüğüne göre hazırlanması",
+    "Ekip içi iş birliği ile müşteri taleplerinin teknik çözümlere dönüştürülmesi"
+  ],
+  "status": "Live / Maintained",
+  "url": "https://cambilisim.com/"
+}
